@@ -1,4 +1,4 @@
-# Perimeter-calculator
+# Perimeter-calculator - Abstract Classes
 The program you are given defines abstract class Figure and derives Rectangle and Triangle classes from it.
 Add an abstract method Perimeter to class Figure, than override it in derived classes to calculate perimeters of already created Rectangle and Triangle objects.
 
