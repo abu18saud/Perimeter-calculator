@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\bin\Debug\netcoreapp3.1\Perimeter_calculator.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\bin\Debug\netcoreapp3.1\Perimeter_calculator.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\bin\Debug\netcoreapp3.1\Perimeter_calculator.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\bin\Debug\netcoreapp3.1\Perimeter_calculator.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\bin\Debug\netcoreapp3.1\Perimeter_calculator.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\bin\Debug\netcoreapp3.1\Perimeter_calculator.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\obj\Debug\netcoreapp3.1\Perimeter_calculator.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\obj\Debug\netcoreapp3.1\Perimeter_calculator.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\obj\Debug\netcoreapp3.1\Perimeter_calculator.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\obj\Debug\netcoreapp3.1\Perimeter_calculator.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\obj\Debug\netcoreapp3.1\Perimeter_calculator.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\obj\Debug\netcoreapp3.1\Perimeter_calculator.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Perimeter-calculator\Perimeter_calculator\Perimeter_calculator\obj\Debug\netcoreapp3.1\Perimeter_calculator.genruntimeconfig.cache
